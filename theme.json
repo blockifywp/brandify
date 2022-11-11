@@ -1,0 +1,268 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "settings": {
+    "custom": {
+      "border": {
+        "radius": "0"
+      },
+      "darkMode": {
+        "palette": {
+          "foreground": "#ffffff",
+          "heading": "#f6f6f9",
+          "surface": "#3f4c7c",
+          "background": "#151929"
+        }
+      },
+      "buttonSecondary": {
+        "color": "#151929"
+      }
+    },
+    "layout": {
+      "contentSize": "min(calc((100vw - var(--scrollbar-width,0px)) - var(--wp--preset--spacing--md,3rem)), 768px)",
+      "wideSize": "min(calc((100vw - var(--scrollbar-width,0px)) - var(--wp--preset--spacing--md,3rem)), 1152px)"
+    },
+    "spacing": {
+      "spacingSizes": [
+        {
+          "name": "½",
+          "slug": "xxs",
+          "size": "calc(var(--wp--preset--font-size--medium,1rem)/2)"
+        },
+        {
+          "name": "1",
+          "slug": "xs",
+          "size": "var(--wp--preset--font-size--medium,1rem)"
+        },
+        {
+          "name": "1.5",
+          "slug": "sm",
+          "size": "calc(var(--wp--preset--font-size--medium,1rem)*1.5)"
+        },
+        {
+          "name": "2",
+          "slug": "md",
+          "size": "calc(var(--wp--preset--font-size--medium,1rem)*2)"
+        },
+        {
+          "name": "3",
+          "slug": "lg",
+          "size": "calc(var(--wp--preset--font-size--medium,1rem)*3)"
+        },
+        {
+          "name": "4",
+          "slug": "xl",
+          "size": "calc(var(--wp--preset--font-size--medium,1rem)*4)"
+        },
+        {
+          "name": "6",
+          "slug": "xxl",
+          "size": "calc(var(--wp--preset--font-size--medium,1rem)*6)"
+        }
+      ]
+    },
+    "typography": {
+      "customFontSize": true,
+      "dropCap": true,
+      "lineHeight": true,
+      "fluid": false,
+      "fontSizes": [
+        {
+          "name": "S",
+          "slug": "small",
+          "size": "clamp(15px, 1.6vw, 16px)",
+          "fluid": {
+            "min": "15px",
+            "max": "16px"
+          }
+        },
+        {
+          "name": "M",
+          "slug": "medium",
+          "size": "clamp(19px, 2vw, 20px)",
+          "fluid": {
+            "min": "18px",
+            "max": "20px"
+          }
+        },
+        {
+          "name": "L",
+          "slug": "large",
+          "size": "clamp(22px, 2.4vw, 24px)",
+          "fluid": {
+            "min": "24px",
+            "max": "24px"
+          }
+        },
+        {
+          "name": "XL",
+          "slug": "x-large",
+          "size": "clamp(54px, 6vw, 66px)",
+          "fluid": {
+            "min": "54px",
+            "max": "66px"
+          }
+        },
+        {
+          "name": "XXL",
+          "slug": "xx-large",
+          "size": "clamp(51px, 8vw, 81px)",
+          "fluid": {
+            "min": "51px",
+            "max": "81px"
+          }
+        }
+      ],
+      "fontFamilies": [
+        {
+          "fontFamily": "Manrope,var(--wp--custom--font-stack--sans-serif)",
+          "name": "Manrope",
+          "slug": "manrope",
+          "fontFace": [
+            {
+              "fontFamily": "Manrope,var(--wp--custom--font-stack--sans-serif)",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "fontDisplay": "swap",
+              "fontWeight": "100 900",
+              "src": [
+                "file:./assets/fonts/manrope.woff2"
+              ]
+            }
+          ]
+        },
+        {
+          "fontFamily": "Playfair Display",
+          "name": "Playfair Display",
+          "slug": "playfair-display",
+          "fontFace": [
+            {
+              "fontFamily": "Playfair Display",
+              "fontStyle": "normal",
+              "fontStretch": "normal",
+              "fontDisplay": "swap",
+              "fontWeight": "100 900",
+              "src": [
+                "file:./assets/fonts/playfair-display.woff2"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "color": {
+      "palette": [
+        {
+          "color": "#4660f6",
+          "name": "Primary",
+          "slug": "primary"
+        },
+        {
+          "color": "#c9ff56",
+          "name": "Secondary",
+          "slug": "secondary"
+        },
+        {
+          "color": "#151929",
+          "name": "Foreground",
+          "slug": "foreground"
+        },
+        {
+          "color": "#1d243c",
+          "name": "Heading",
+          "slug": "heading"
+        },
+        {
+          "color": "#f6f6f9",
+          "name": "Surface",
+          "slug": "surface"
+        },
+        {
+          "color": "#ffffff",
+          "name": "Background",
+          "slug": "background"
+        },
+        {
+          "color": "currentColor",
+          "name": "Current Color",
+          "slug": "currentColor"
+        },
+        {
+          "color": "inherit",
+          "name": "Inherit",
+          "slug": "inherit"
+        },
+        {
+          "color": "transparent",
+          "name": "Transparent",
+          "slug": "transparent"
+        }
+      ],
+      "gradients": [
+        {
+          "slug": "light",
+          "name": "Light",
+          "gradient": "linear-gradient(135deg, rgba(248, 255, 252, 1) 0%, rgba(232, 243, 255, 1) 12%, rgba(253, 255, 254, 1) 19%, rgba(223, 255, 241, 1) 29%, rgba(234, 252, 255, 1) 42%, rgba(230, 255, 230, 1) 47%, rgba(211, 255, 211, 1) 54%, rgba(230, 255, 230, 1) 59%, rgba(253, 255, 254, 1) 65%, rgba(234, 251, 255, 1) 72%, rgba(221, 255, 233, 1) 84%, rgba(240, 255, 234, 1) 94%, rgba(253, 255, 254, 1) 98%, rgba(246, 255, 250, 1) 100%)"
+        },
+        {
+          "slug": "conic-light",
+          "name": "Conic Light",
+          "gradient": "var(--wp--preset--gradient--custom-conic-light,var(--wp--custom--gradient--conic,conic-gradient(from 90deg, rgba(229, 245, 255), rgb(242, 255, 253), rgb(214, 255, 250), rgb(245, 254, 255), rgb(255, 234, 247), rgb(234, 226, 255), rgb(234, 252, 255), rgb(249, 246, 255), rgb(255, 254, 255), rgb(237, 236, 255), rgb(234, 252, 255), rgb(255, 237, 252), rgb(229, 245, 255))))"
+        },
+        {
+          "gradient": "linear-gradient(0deg,var(--wp--preset--color--background) 50%,transparent 50%)",
+          "name": "Background/Transparent",
+          "slug": "background-transparent"
+        },
+        {
+          "gradient": "linear-gradient(0deg,var(--wp--preset--color--foreground) 50%,transparent 50%)",
+          "name": "Foreground/Transparent",
+          "slug": "foreground-transparent"
+        },
+        {
+          "gradient": "linear-gradient(180deg,var(--wp--preset--color--foreground) 50%,transparent 50%)",
+          "name": "Transparent/Foreground",
+          "slug": "transparent-foreground"
+        }
+      ]
+    }
+  },
+  "styles": {
+    "color": {
+      "background": "var(--wp--preset--color--background)",
+      "text": "var(--wp--preset--color--foreground)"
+    },
+    "typography": {
+      "fontFamily": "var(--wp--preset--font-family--manrope)",
+      "lineHeight": "1.6"
+    },
+    "elements": {
+      "button": {
+        "spacing": {
+          "padding": {
+            "top": "var(--wp--preset--spacing--xs)",
+            "right": "var(--wp--preset--spacing--md)",
+            "bottom": "var(--wp--preset--spacing--xs)",
+            "left": "var(--wp--preset--spacing--md)"
+          }
+        }
+      },
+      "heading": {
+        "color": {
+          "text": "var(--wp--preset--color--foreground)"
+        },
+        "typography": {
+          "lineHeight": "1.1"
+        }
+      },
+      "h1": {
+        "typography": {
+          "fontSize": "var(--wp--preset--font-size--xx-large)"
+        }
+      }
+    }
+  }
+}
+
+
+
