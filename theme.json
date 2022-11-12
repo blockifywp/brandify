@@ -62,10 +62,6 @@
       ]
     },
     "typography": {
-      "customFontSize": true,
-      "dropCap": true,
-      "lineHeight": true,
-      "fluid": false,
       "fontSizes": [
         {
           "name": "S",

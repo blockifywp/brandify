@@ -44,6 +44,10 @@ License URL: https://github.com/feathericons/feather/blob/master/LICENSE
 SVG Illustrations
 All inline SVG illustrations and placeholder logos designed by the author and licensed under GNU General Public License, version 2 or later.
 
+Placeholder Video
+Source: https://isorepublic.com/video/the-solar-system/
+License: https://creativecommons.org/publicdomain/zero/1.0/
+
 All JPG images licensed under Creative Commons Zero (CC0) license: https://creativecommons.org/publicdomain/zero/1.0/
 
 - https://pickupimage.com/free-photos/business-office-meeting/2352065
@@ -61,6 +65,6 @@ All JPG images licensed under Creative Commons Zero (CC0) license: https://creat
 
 == Changelog ==
 
-= 0.0.1 - 10 November 2022 =
+= 0.0.1 - 12 November 2022 =
 
 * Initial release
