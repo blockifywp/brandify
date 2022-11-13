@@ -51,6 +51,15 @@
         }
       ]
     }
+  },
+  "styles": {
+    "elements": {
+      "button": {
+        "color": {
+          "text": "#1d243c"
+        }
+      }
+    }
   }
 }
 

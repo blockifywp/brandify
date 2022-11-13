@@ -128,12 +128,12 @@
           ]
         },
         {
-          "fontFamily": "Playfair Display",
+          "fontFamily": "Playfair Display,var(--wp--custom--font-stack--serif)",
           "name": "Playfair Display",
           "slug": "playfair-display",
           "fontFace": [
             {
-              "fontFamily": "Playfair Display",
+              "fontFamily": "Playfair Display,var(--wp--custom--font-stack--serif)",
               "fontStyle": "normal",
               "fontStretch": "normal",
               "fontDisplay": "swap",
