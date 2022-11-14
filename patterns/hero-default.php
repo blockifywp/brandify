@@ -10,7 +10,7 @@
 <div class="wp-block-group alignfull is-style-dark" id="hero" style="margin-top:0"><!-- wp:columns {"verticalAlignment":"bottom","align":"wide","style":{"spacing":{"padding":{"bottom":"0","top":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|lg"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-bottom" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"bottom","width":"55%","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg"}}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="padding-top:var(--wp--preset--spacing--lg);flex-basis:55%"><!-- wp:heading {"level":1,"textColor":"currentColor","fontSize":"xx-large"} -->
-<h1 class="has-current-color-color has-text-color has-xx-large-font-size">Grow your <span style="" class="has-font-family has-playfair-display-font-family"><em>brand</em></span> without limits</h1>
+<h1 class="has-current-color-color has-text-color has-xx-large-font-size">Grow your <span style="font-style:italic; font-weight:100;" class="has-font  has-playfair-display-font-family">brand</span> without limits</h1>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
@@ -48,7 +48,7 @@
 <!-- /wp:group -->
 
 <!-- wp:image {"align":"wide","id":492,"sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"filter":{"backdrop":false,"contrast":105,"saturate":1.1}},"backgroundColor":"heading"} -->
-<figure class="wp-block-image alignwide size-full has-heading-background-color has-background has-filter" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;--filter:contrast(105%) saturate(1.1)"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>business-office-meeting.jpeg" alt="" class="wp-image-492"/></figure>
+<figure class="wp-block-image alignwide size-full has-heading-background-color has-background has-filter" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;--filter:contrast(105%) saturate(1.1)"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>business-office-meeting.jpeg" alt="" class="wp-image-492"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>

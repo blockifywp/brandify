@@ -16,7 +16,7 @@
 <div class="wp-block-group alignfull is-style-dark" style="margin-top:0;padding-top:var(--wp--preset--spacing--lg);padding-right:0;padding-bottom:var(--wp--preset--spacing--lg);padding-left:0"><!-- wp:columns {"verticalAlignment":"bottom","align":"wide","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|lg","top":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|lg"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-bottom" style="padding-top:0;padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:column {"verticalAlignment":"bottom","width":"53%","style":{"spacing":{"padding":{"top":"var:preset|spacing|sm"}}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="padding-top:var(--wp--preset--spacing--sm);flex-basis:53%"><!-- wp:heading {"textColor":"inherit","fontSize":"xx-large"} -->
-<h2 class="has-inherit-color has-text-color has-xx-large-font-size">Ready to <em><span style="" class="has-font-family has-playfair-display-font-family">start</span></em> your project?</h2>
+<h2 class="has-inherit-color has-text-color has-xx-large-font-size">Ready to <span style="font-style:italic; font-weight:300;" class="has-font  has-playfair-display-font-family">begin</span> your project?</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 

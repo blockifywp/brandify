@@ -9,7 +9,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2022-11-12T11:27:13+00:00\n"
+"POT-Creation-Date: 2022-11-14T04:02:33+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "X-Generator: WP-CLI 2.6.0\n"
 "X-Domain: brandify\n"
@@ -23,7 +23,7 @@ msgid "https://blockifywp.com/themes/brandify"
 msgstr ""
 
 #. Description of the theme
-msgid "Child theme for Blockify"
+msgid "Modern full site editing enabled child theme for Blockify. Features fully customizable animations, custom SVG illustrations, responsive positioning settings and more. Perfect for building a agency portfolio, business or startup website."
 msgstr ""
 
 #. Author of the theme

@@ -14,7 +14,7 @@
 <!-- /wp:image -->
 
 <!-- wp:heading {"style":{"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}}} -->
-<h2 style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">We're a <span class="has-font-family has-playfair-display-font-family" style=""><em>creative</em></span> digital agency</h2>
+<h2 style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0">We're a <span style="font-style:italic; font-weight:300;" class="has-font  has-playfair-display-font-family">creative</span> digital agency</h2>
 <!-- /wp:heading --></div>
 <!-- /wp:column -->
 
