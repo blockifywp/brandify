@@ -25,37 +25,37 @@
     "spacing": {
       "spacingSizes": [
         {
-          "name": "½",
+          "name": "XXS",
           "slug": "xxs",
           "size": "calc(var(--wp--preset--font-size--medium,1rem)/2)"
         },
         {
-          "name": "1",
+          "name": "XS",
           "slug": "xs",
           "size": "var(--wp--preset--font-size--medium,1rem)"
         },
         {
-          "name": "1.5",
+          "name": "S",
           "slug": "sm",
           "size": "calc(var(--wp--preset--font-size--medium,1rem)*1.5)"
         },
         {
-          "name": "2",
+          "name": "M",
           "slug": "md",
           "size": "calc(var(--wp--preset--font-size--medium,1rem)*2)"
         },
         {
-          "name": "3",
+          "name": "L",
           "slug": "lg",
           "size": "calc(var(--wp--preset--font-size--medium,1rem)*3)"
         },
         {
-          "name": "4",
+          "name": "XL",
           "slug": "xl",
           "size": "calc(var(--wp--preset--font-size--medium,1rem)*4)"
         },
         {
-          "name": "6",
+          "name": "XXL",
           "slug": "xxl",
           "size": "calc(var(--wp--preset--font-size--medium,1rem)*6)"
         }
