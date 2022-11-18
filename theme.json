@@ -450,42 +450,6 @@
             "max": "81px"
           }
         }
-      ],
-      "fontFamilies": [
-        {
-          "fontFamily": "Manrope,var(--wp--custom--font-stack--sans-serif)",
-          "name": "Manrope",
-          "slug": "manrope",
-          "fontFace": [
-            {
-              "fontFamily": "Manrope,var(--wp--custom--font-stack--sans-serif)",
-              "fontStyle": "normal",
-              "fontStretch": "normal",
-              "fontDisplay": "swap",
-              "fontWeight": "100 900",
-              "src": [
-                "file:.\/assets\/fonts\/manrope.woff2"
-              ]
-            }
-          ]
-        },
-        {
-          "fontFamily": "Playfair Display,var(--wp--custom--font-stack--serif)",
-          "name": "Playfair Display",
-          "slug": "playfair-display",
-          "fontFace": [
-            {
-              "fontFamily": "Playfair Display,var(--wp--custom--font-stack--serif)",
-              "fontStyle": "normal",
-              "fontStretch": "normal",
-              "fontDisplay": "swap",
-              "fontWeight": "100 900",
-              "src": [
-                "file:.\/assets\/fonts\/playfair-display.woff2"
-              ]
-            }
-          ]
-        }
       ]
     }
   },

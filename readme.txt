@@ -2,7 +2,7 @@
 Contributors: blockify
 Requires at least: 6.1
 Tested up to: 6.1
-Stable tag: 0.0.2
+Stable tag: 0.0.3
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -64,6 +64,10 @@ All JPG images licensed under Creative Commons Zero (CC0) license: https://creat
 - https://pxhere.com/en/photo/1448601
 
 == Changelog ==
+
+= 0.0.3 - 18 November 2022 =
+
+* Remove: Font files and font families from theme.json (loaded by parent)
 
 = 0.0.2 - 17 November 2022 =
 
