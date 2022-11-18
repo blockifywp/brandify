@@ -16,13 +16,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":503,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>women-laptops-edited.jpeg" alt="" class="wp-image-503"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>women-laptops-edited.jpeg" alt="" class="wp-image-503"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":508,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>building-vehicle-workspace-office-business-room-edited.jpg" alt="" class="wp-image-508"/></figure>
+<figure class="wp-block-image size-full"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>building-vehicle-workspace-office-business-room-edited.jpg" alt="" class="wp-image-508"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

@@ -30,7 +30,7 @@
 
 <!-- wp:column {"verticalAlignment":"center"} -->
 <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":572,"sizeSlug":"large","linkDestination":"none","style":{"filter":{"contrast":105}},"className":""} -->
-<figure class="wp-block-image size-large has-filter" style="--filter:contrast(105%)"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>achievement-analysis-brainstorming-business-edited.jpg" alt="" class="wp-image-572"/></figure>
+<figure class="wp-block-image size-large has-filter" style="--filter:contrast(105%)"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>achievement-analysis-brainstorming-business-edited.jpg" alt="" class="wp-image-572"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

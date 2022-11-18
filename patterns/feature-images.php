@@ -3,7 +3,7 @@
  * Title: Feature Images
  * Slug: feature-images
  * Categories: feature
- * 
+ *
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0"},"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"}}},"backgroundColor":"foreground","textColor":"background","className":"is-style-default","layout":{"type":"constrained"}} -->
@@ -26,13 +26,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":505,"sizeSlug":"full","linkDestination":"none","style":{"animation":{"timingFunction":"ease-in-out","duration":".6","delay":"0","iterationCount":"1","playState":"running"},"transform":{},"filter":{"animate":{"opacity":0}}}} -->
-<figure class="wp-block-image size-full has-filter has-animation" style="--filter-animate:opacity(0%);--animation:animate .6s 0s 1 ease-in-out"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>startup-office-edited.jpeg" alt="" class="wp-image-505"/></figure>
+<figure class="wp-block-image size-full has-filter has-animation" style="--filter-animate:opacity(0%);--animation:animate .6s 0s 1 ease-in-out"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>startup-office-edited.jpeg" alt="" class="wp-image-505"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"50%","style":{"animation":{"duration":"0.6","delay":0.3,"timingFunction":"ease-in-out","iterationCount":"1"},"transform":{"animate":{"translateY":"100px"}},"filter":{"animate":{"opacity":0}}}} -->
 <div class="wp-block-column has-filter has-transform has-animation" style="flex-basis:50%;--filter-animate:opacity(0%);--transform-animate:translateY(100px);--animation:animate 0.6s 0.3s 1 ease-in-out;animation-play-state:paused"><!-- wp:image {"id":618,"sizeSlug":"large","linkDestination":"none","style":{"animation":{},"transform":{},"filter":{"animate":{"opacity":0}}}} -->
-<figure class="wp-block-image size-large has-filter" style="--filter-animate:opacity(0%)"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>achievement-analysis-brainstorming-business-edited-1.jpg" alt="" class="wp-image-618"/></figure>
+<figure class="wp-block-image size-large has-filter" style="--filter-animate:opacity(0%)"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>achievement-analysis-brainstorming-business-edited.jpg" alt="" class="wp-image-618"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"3em"} -->
@@ -50,13 +50,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":508,"sizeSlug":"full","linkDestination":"none","style":{"filter":{"hueRotate":1}}} -->
-<figure class="wp-block-image size-full has-filter" style="--filter:hue-rotate(1deg)"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>building-vehicle-workspace-office-business-room-edited.jpg" alt="" class="wp-image-508"/></figure>
+<figure class="wp-block-image size-full has-filter" style="--filter:hue-rotate(1deg)"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>building-vehicle-workspace-office-business-room-edited.jpg" alt="" class="wp-image-508"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"50%","style":{"transform":{"animate":{"translateY":"100px"}},"filter":{"animate":{"opacity":0}},"animation":{"timingFunction":"ease-in-out","duration":"0.6","delay":"0.9","iterationCount":"1"}}} -->
 <div class="wp-block-column has-filter has-transform has-animation" style="flex-basis:50%;--filter-animate:opacity(0%);--transform-animate:translateY(100px);--animation:animate 0.6s 0.9s 1 ease-in-out;animation-play-state:paused"><!-- wp:image {"id":507,"sizeSlug":"large","linkDestination":"none","className":""} -->
-<figure class="wp-block-image size-large"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>people-working-edited-1.jpeg" alt="" class="wp-image-507"/></figure>
+<figure class="wp-block-image size-large"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>people-working-edited-1.jpeg" alt="" class="wp-image-507"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:spacer {"height":"3em"} -->

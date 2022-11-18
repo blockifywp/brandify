@@ -65,6 +65,10 @@ All JPG images licensed under Creative Commons Zero (CC0) license: https://creat
 
 == Changelog ==
 
+= 0.0.4 - 18 November 2022 =
+
+* Fix: WP.org theme preview bug
+
 = 0.0.3 - 18 November 2022 =
 
 * Remove: Font files and font families from theme.json (loaded by parent)

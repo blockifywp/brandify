@@ -60,7 +60,7 @@
 <!-- /wp:group -->
 
 <!-- wp:image {"id":497,"sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}}},"className":""} -->
-<figure class="wp-block-image size-full" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>studio-office-man.jpeg" alt="" class="wp-image-497"/></figure>
+<figure class="wp-block-image size-full" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>studio-office-man.jpeg" alt="" class="wp-image-497"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

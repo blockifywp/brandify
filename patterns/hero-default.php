@@ -48,7 +48,7 @@
 <!-- /wp:group -->
 
 <!-- wp:image {"align":"wide","id":492,"sizeSlug":"full","linkDestination":"none","style":{"spacing":{"margin":{"top":"0","right":"0","bottom":"0","left":"0"}},"filter":{"backdrop":false,"contrast":105,"saturate":1.1}},"backgroundColor":"heading"} -->
-<figure class="wp-block-image alignwide size-full has-heading-background-color has-background has-filter" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;--filter:contrast(105%) saturate(1.1)"><img src="<?php echo content_url( "/themes/brandify/patterns/assets/img/" ) ?>business-office-meeting.jpeg" alt="" class="wp-image-492"/></figure>
+<figure class="wp-block-image alignwide size-full has-heading-background-color has-background has-filter" style="margin-top:0;margin-right:0;margin-bottom:0;margin-left:0;--filter:contrast(105%) saturate(1.1)"><img src="<?php echo content_url( "/themes/brandify/assets/img/" ) ?>business-office-meeting.jpeg" alt="" class="wp-image-492"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group --></div>
