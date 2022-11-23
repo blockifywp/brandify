@@ -2,7 +2,7 @@
 Contributors: blockify
 Requires at least: 6.1
 Tested up to: 6.1
-Stable tag: 0.0.5
+Stable tag: 0.0.6
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -65,9 +65,13 @@ All JPG images licensed under Creative Commons Zero (CC0) license: https://creat
 
 == Changelog ==
 
+= 0.0.6 - 24 November 2022 =
+
+* Update: Patterns and images
+
 = 0.0.5 - 22 November 2022 =
 
-- Update: Patterns for Blockify new settings
+* Update: Patterns for Blockify new settings
 
 = 0.0.4 - 18 November 2022 =
 
