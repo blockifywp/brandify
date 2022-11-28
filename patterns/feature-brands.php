@@ -6,8 +6,8 @@
  * 
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"},"margin":{"top":"0","bottom":"0"}}},"className":"is-style-dark","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-dark" id="brands" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|md","top":"var:preset|spacing|md"}}},"className":"aligncenter is-style-default","animation":{"name":"fade-in-down","duration":1}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg","bottom":"var:preset|spacing|lg"},"margin":{"top":"0","bottom":"0"}}},"className":"is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default" id="brands" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--lg);padding-bottom:var(--wp--preset--spacing--lg)"><!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|md","top":"var:preset|spacing|md"}}},"className":"aligncenter is-style-default","animation":{"name":"fade-in-down","duration":1}} -->
 <p class="aligncenter has-text-align-center is-style-default has-animation aligncenter" style="margin-top:var(--wp--preset--spacing--md);margin-bottom:var(--wp--preset--spacing--md);animation-name:fade-in-down;animation-duration:1s;animation-iteration-count:1">Trusted by 1000+ fictional companies</p>
 <!-- /wp:paragraph -->
 

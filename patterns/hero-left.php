@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Hero Left CTA
- * Slug: hero-left-cta
+ * Title: Hero Left
+ * Slug: hero-left
  * Categories: hero
  * 
  */

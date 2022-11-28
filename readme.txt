@@ -2,7 +2,7 @@
 Contributors: blockify
 Requires at least: 6.1
 Tested up to: 6.1
-Stable tag: 0.0.6
+Stable tag: 0.1.0
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -64,6 +64,22 @@ All JPG images licensed under Creative Commons Zero (CC0) license: https://creat
 - https://pxhere.com/en/photo/1448601
 
 == Changelog ==
+
+= 0.1.0 - 28 November 2022 =
+
+* Add: Banner marquee pattern
+* Add: CTA horizontal pattern
+* Add: Utility circle pattern
+* Add: Static button color preset
+* Add: Begin adding default patterns
+* Update: Screenshot to light version
+* Fix: Secondary banner color
+* Fix: Dark mode toggle pattern
+* Remove: Version from package.json
+
+= 0.0.7 - 27 November 2022 =
+
+* Update: Remove font stacks, use preset
 
 = 0.0.6 - 24 November 2022 =
 

@@ -111,7 +111,7 @@
       ],
       "fontFamilies": [
         {
-          "fontFamily": "Manrope,var(--wp--custom--font-stack--sans-serif)",
+          "fontFamily": "Manrope,var(--wp--preset--font-family--sans-serif)",
           "name": "Manrope",
           "slug": "manrope",
           "fontFace": [
@@ -128,7 +128,7 @@
           ]
         },
         {
-          "fontFamily": "Playfair Display,var(--wp--custom--font-stack--serif)",
+          "fontFamily": "Playfair Display,var(--wp--preset--font-family--serif)",
           "name": "Playfair Display",
           "slug": "playfair-display",
           "fontFace": [
@@ -192,6 +192,11 @@
           "color": "transparent",
           "name": "Transparent",
           "slug": "transparent"
+        },
+        {
+          "color": "#fffffe",
+          "name": "Button",
+          "slug": "button"
         }
       ],
       "gradients": [
@@ -234,6 +239,9 @@
     },
     "elements": {
       "button": {
+        "color": {
+          "text": "var(--wp--preset--color--button)"
+        },
         "spacing": {
           "padding": {
             "top": "var(--wp--preset--spacing--xs)",

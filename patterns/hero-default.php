@@ -6,8 +6,8 @@
  * 
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-dark","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-dark" id="hero" style="margin-top:0"><!-- wp:columns {"verticalAlignment":"bottom","align":"wide","style":{"spacing":{"padding":{"bottom":"0","top":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|lg"}}}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default" id="hero" style="margin-top:0"><!-- wp:columns {"verticalAlignment":"bottom","align":"wide","style":{"spacing":{"padding":{"bottom":"0","top":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|lg"}}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-bottom" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"bottom","width":"55%","style":{"spacing":{"padding":{"top":"var:preset|spacing|lg"}}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="padding-top:var(--wp--preset--spacing--lg);flex-basis:55%"><!-- wp:heading {"level":1,"textColor":"currentColor","fontSize":"xx-large","animation":{"name":"fade-in-down","duration":1,"timingFunction":"ease-in-out"}} -->
 <h1 class="has-current-color-color has-text-color has-xx-large-font-size has-animation" style="animation-name:fade-in-down;animation-duration:1s;animation-timing-function:ease-in-out;animation-iteration-count:1">Grow your <span style="font-style:italic; font-weight:100;" class="has-font has-playfair-display-font-family">brand</span> without limits</h1>

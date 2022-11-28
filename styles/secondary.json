@@ -48,6 +48,11 @@
           "color": "transparent",
           "name": "Transparent",
           "slug": "transparent"
+        },
+        {
+          "color": "#151928",
+          "name": "Button",
+          "slug": "button"
         }
       ]
     }
