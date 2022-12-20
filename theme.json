@@ -318,7 +318,7 @@
               "fontDisplay": "swap",
               "fontWeight": "100 900",
               "src": [
-                "file:./vendor/blockify/framework/assets/fonts/manrope.woff2"
+                "file:./assets/fonts/manrope.woff2"
               ]
             }
           ]
@@ -335,7 +335,7 @@
               "fontDisplay": "swap",
               "fontWeight": "100 900",
               "src": [
-                "file:./vendor/blockify/framework/assets/fonts/playfair-display.woff2"
+                "file:./assets/fonts/playfair-display.woff2"
               ]
             }
           ]
