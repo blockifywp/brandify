@@ -28,33 +28,15 @@
 <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm"}}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"level":4,"className":"has-text-align-left"} -->
-<h4 class="has-text-align-left"><strong>Pages</strong></h4>
+<h4 class="wp-block-heading has-text-align-left"><strong>Pages</strong></h4>
 <!-- /wp:heading -->
 
-<!-- wp:paragraph {"className":"has-text-align-left"} -->
-<p class="has-text-align-left">About</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"has-text-align-left"} -->
-<p class="has-text-align-left">Pricing</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"has-text-align-left"} -->
-<p class="has-text-align-left">FAQ</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Team</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"has-text-align-left"} -->
-<p class="has-text-align-left">Contact</p>
-<!-- /wp:paragraph --></div>
+<!-- wp:navigation {"layout":{"type":"flex","orientation":"vertical"},"style":{"spacing":{"blockGap":"0"}}} /--></div>
 <!-- /wp:column -->
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"level":4,"className":"has-text-align-left"} -->
-<h4 class="has-text-align-left"><strong>Store</strong></h4>
+<h4 class="wp-block-heading has-text-align-left"><strong>Store</strong></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
@@ -84,7 +66,7 @@
 <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm"}}}} -->
 <div class="wp-block-columns is-not-stacked-on-mobile" style="padding-bottom:var(--wp--preset--spacing--sm)"><!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"level":4,"className":"has-text-align-left"} -->
-<h4 class="has-text-align-left"><strong>Content</strong></h4>
+<h4 class="wp-block-heading has-text-align-left"><strong>Content</strong></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
@@ -110,7 +92,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:heading {"level":4,"className":"has-text-align-left"} -->
-<h4 class="has-text-align-left"><strong>Extra</strong></h4>
+<h4 class="wp-block-heading has-text-align-left"><strong>Extra</strong></h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"className":"has-text-align-left"} -->
@@ -126,7 +108,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a rel="noreferrer noopener" href="https://wp-themes.com/blockify/?page_id=2&amp;pattern_name=page-style-guide" target="_blank">Style Guide ↗</a></p>
+<p>Style Guide ↗</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
@@ -135,7 +117,7 @@
 
 <!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm","top":"var:preset|spacing|md"}}}} -->
-<p class="aligncenter has-text-align-center aligncenter" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--sm)">© Copyright [year] Brandify  <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-foreground-color">⚡️</mark> by Blockify. All rights reserved. </p>
+<p class="aligncenter has-text-align-center aligncenter" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--sm)">© Copyright {year} {site_title}<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-foreground-color"><span style="" class="has-text-gradient has-conic-light-gradient-background">⚡️</span></mark>by Blockify. All rights reserved. </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->

@@ -32,10 +32,6 @@
     }
   ],
   "settings": {
-    "layout": {
-      "contentSize": "min(calc((100vw - var(--scrollbar-width,0px)) - var(--wp--preset--spacing--md,3rem)), 768px)",
-      "wideSize": "min(calc((100vw - var(--scrollbar-width,0px)) - var(--wp--preset--spacing--md,3rem)), 1152px)"
-    },
     "appearanceTools": true,
     "border": {
       "color": true,
@@ -190,24 +186,14 @@
           "slug": "background"
         },
         {
-          "color": "currentColor",
-          "name": "Current Color",
-          "slug": "currentColor"
-        },
-        {
-          "color": "inherit",
-          "name": "Inherit",
-          "slug": "inherit"
-        },
-        {
-          "color": "transparent",
-          "name": "Transparent",
-          "slug": "transparent"
-        },
-        {
           "color": "#fffffe",
           "name": "Button",
           "slug": "button"
+        },
+        {
+          "color": "currentColor",
+          "name": "Current Color",
+          "slug": "currentColor"
         },
         {
           "color": "inherit",
