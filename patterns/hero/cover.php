@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Hero Cover
- * Slug: hero-cover
+ * Title: Cover
+ * Slug: cover
  * Categories: hero
  * 
  */

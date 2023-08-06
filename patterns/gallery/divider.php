@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Gallery Divider
- * Slug: gallery-divider
+ * Title: Divider
+ * Slug: divider
  * Categories: gallery
  * 
  */

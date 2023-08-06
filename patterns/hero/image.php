@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Hero Image
- * Slug: hero-image
+ * Title: Image
+ * Slug: image
  * Categories: hero
  * 
  */

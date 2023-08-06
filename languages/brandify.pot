@@ -9,9 +9,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"POT-Creation-Date: 2023-04-22T07:24:21+00:00\n"
+"POT-Creation-Date: 2023-06-22T03:47:32+00:00\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"X-Generator: WP-CLI 2.6.0\n"
+"X-Generator: WP-CLI 2.8.1\n"
 "X-Domain: brandify\n"
 
 #. Theme Name of the theme
@@ -34,118 +34,203 @@ msgstr ""
 msgid "https://blockifywp.com/"
 msgstr ""
 
+#: patterns/banner-footer.php
+msgctxt "Pattern title"
+msgid "Banner Footer"
+msgstr ""
+
+#: patterns/banner-marquee.php
+msgctxt "Pattern title"
+msgid "Banner Marquee"
+msgstr ""
+
+#: patterns/cta-box.php
+msgctxt "Pattern title"
+msgid "CTA Box"
+msgstr ""
+
+#: patterns/cta-horizontal.php
+msgctxt "Pattern title"
+msgid "CTA Horizontal"
+msgstr ""
+
+#: patterns/feature-brands.php
+msgctxt "Pattern title"
+msgid "Feature Brands"
+msgstr ""
+
+#: patterns/feature-image-columns.php
+msgctxt "Pattern title"
+msgid "Feature Image Columns"
+msgstr ""
+
+#: patterns/feature-images.php
+msgctxt "Pattern title"
+msgid "Feature Images"
+msgstr ""
+
+#: patterns/feature-services-list.php
+msgctxt "Pattern title"
+msgid "Feature Services List"
+msgstr ""
+
+#: patterns/feature-services.php
+msgctxt "Pattern title"
+msgid "Feature Services"
+msgstr ""
+
+#: patterns/feature-solutions.php
+msgctxt "Pattern title"
+msgid "Feature Solutions"
+msgstr ""
+
+#: patterns/footer-default.php
+msgctxt "Pattern title"
+msgid "Footer Default"
+msgstr ""
+
+#: patterns/gallery-divider.php
+msgctxt "Pattern title"
+msgid "Gallery Divider"
+msgstr ""
+
+#: patterns/header-default.php
+msgctxt "Pattern title"
+msgid "Header Default"
+msgstr ""
+
 #: patterns/header-default.php:12
 msgid "Limited time only. Save up to 50% on our services →"
 msgstr ""
 
-#: theme.json
-msgctxt "Font size name"
-msgid "S"
+#: patterns/hero-cover.php
+msgctxt "Pattern title"
+msgid "Hero Cover"
 msgstr ""
 
-#: theme.json
-msgctxt "Font size name"
-msgid "M"
+#: patterns/hero-default.php
+msgctxt "Pattern title"
+msgid "Hero Default"
 msgstr ""
 
-#: theme.json
-msgctxt "Font size name"
-msgid "L"
+#: patterns/hero-image.php
+msgctxt "Pattern title"
+msgid "Hero Image"
 msgstr ""
 
-#: theme.json
-msgctxt "Font size name"
-msgid "XL"
+#: patterns/hero-left.php
+msgctxt "Pattern title"
+msgid "Hero Left"
 msgstr ""
 
-#: theme.json
-msgctxt "Font size name"
-msgid "XXL"
+#: patterns/pricing-three-column.php
+msgctxt "Pattern title"
+msgid "Pricing Three Column"
 msgstr ""
 
-#: theme.json
-msgctxt "Font family name"
-msgid "Manrope"
+#: patterns/pricing-two-column.php
+msgctxt "Pattern title"
+msgid "Pricing Two Column"
 msgstr ""
 
-#: theme.json
-msgctxt "Font family name"
-msgid "Playfair Display"
+#: patterns/stats-counter.php
+msgctxt "Pattern title"
+msgid "Stats Counter"
 msgstr ""
 
+#: patterns/template-front-page.php
+msgctxt "Pattern title"
+msgid "Template Front Page"
+msgstr ""
+
+#: patterns/utility-circle.php
+msgctxt "Pattern title"
+msgid "Utility Circle"
+msgstr ""
+
+#: styles/secondary.json
+msgctxt "Style variation name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/secondary.json
 #: theme.json
 msgctxt "Color name"
 msgid "Primary"
 msgstr ""
 
+#: styles/secondary.json
 #: theme.json
 msgctxt "Color name"
 msgid "Secondary"
 msgstr ""
 
+#: styles/secondary.json
 #: theme.json
 msgctxt "Color name"
 msgid "Foreground"
 msgstr ""
 
+#: styles/secondary.json
 #: theme.json
 msgctxt "Color name"
 msgid "Heading"
 msgstr ""
 
+#: styles/secondary.json
 #: theme.json
 msgctxt "Color name"
 msgid "Surface"
 msgstr ""
 
+#: styles/secondary.json
 #: theme.json
 msgctxt "Color name"
 msgid "Background"
 msgstr ""
 
+#: styles/secondary.json
+#: theme.json
+msgctxt "Color name"
+msgid "Current Color"
+msgstr ""
+
+#: styles/secondary.json
+#: theme.json
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: styles/secondary.json
+#: theme.json
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: styles/secondary.json
 #: theme.json
 msgctxt "Color name"
 msgid "Button"
 msgstr ""
 
 #: theme.json
-msgctxt "Color name"
-msgid "Current Color"
+msgctxt "Custom template name"
+msgid "Blank"
 msgstr ""
 
 #: theme.json
-msgctxt "Color name"
-msgid "Inherit"
+msgctxt "Custom template name"
+msgid "Full Width"
 msgstr ""
 
 #: theme.json
-msgctxt "Color name"
-msgid "Transparent"
+msgctxt "Template part name"
+msgid "Header"
 msgstr ""
 
 #: theme.json
-msgctxt "Gradient name"
-msgid "Light"
-msgstr ""
-
-#: theme.json
-msgctxt "Gradient name"
-msgid "Conic Light"
-msgstr ""
-
-#: theme.json
-msgctxt "Gradient name"
-msgid "Background/Transparent"
-msgstr ""
-
-#: theme.json
-msgctxt "Gradient name"
-msgid "Foreground/Transparent"
-msgstr ""
-
-#: theme.json
-msgctxt "Gradient name"
-msgid "Transparent/Foreground"
+msgctxt "Template part name"
+msgid "Footer"
 msgstr ""
 
 #: theme.json
@@ -184,21 +269,61 @@ msgid "XXL"
 msgstr ""
 
 #: theme.json
-msgctxt "Custom template name"
-msgid "Blank"
+msgctxt "Gradient name"
+msgid "Light"
 msgstr ""
 
 #: theme.json
-msgctxt "Custom template name"
-msgid "Full Width"
+msgctxt "Gradient name"
+msgid "Conic Light"
 msgstr ""
 
 #: theme.json
-msgctxt "Template part name"
-msgid "Header"
+msgctxt "Gradient name"
+msgid "Background/Transparent"
 msgstr ""
 
 #: theme.json
-msgctxt "Template part name"
-msgid "Footer"
+msgctxt "Gradient name"
+msgid "Foreground/Transparent"
+msgstr ""
+
+#: theme.json
+msgctxt "Gradient name"
+msgid "Transparent/Foreground"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "S"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "M"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "L"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "XXL"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Manrope"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
 msgstr ""
