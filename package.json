@@ -1,12 +1,11 @@
 {
-  "name": "blockify-brandify",
-  "description": "Brandify theme for Blockify.",
-  "author": "Blockify",
-  "license": "GPL-2.0-or-later",
-  "main": "assets/js/index.js",
-  "scripts": {
-    "pot": "wp i18n make-pot ./ languages/brandify.pot --exclude='wp,wp-content,vendor,tests,node_modules,build,assets,src'",
-    "zip": "rm -Rf ../../brandify.zip && zip -r ../../brandify.zip assets/ languages/ parts/ patterns/ styles/ templates/ index.php readme.txt screenshot.png style.css theme.json",
-    "svn": "func() { npm run pot && npm run zip && cp ../../brandify.zip /Users/seothemes/Documents/Blockify/svn/brandify && cd /Users/seothemes/Documents/Blockify/svn/brandify && svn up && svn cp $1 $2 && cd $2 && rm -Rf ./* && cd .. && unzip brandify.zip -d $2 && rm brandify.zip && open -a Terminal .; }; func"
-  }
+	"name": "blockify-brandify",
+	"description": "Brandify theme for Blockify.",
+	"author": "Blockify",
+	"license": "GPL-2.0-or-later",
+	"main": "assets/js/index.js",
+	"scripts": {
+		"pot": "wp i18n make-pot ./ languages/brandify.pot --exclude='wp,wp-content,vendor,tests,node_modules,build,assets,src'",
+		"zip": "rm -Rf ../../brandify.zip && zip -r ../../brandify.zip assets/ languages/ parts/ patterns/ styles/ templates/ readme.txt screenshot.png style.css theme.json"
+	}
 }
