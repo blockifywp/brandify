@@ -1,8 +1,8 @@
 === Brandify ===
 Contributors: blockify
 Requires at least: 6.2
-Tested up to: 6.2
-Stable tag: 0.4.1
+Tested up to: 6.4
+Stable tag: 0.5.0
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
