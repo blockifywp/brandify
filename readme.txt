@@ -65,6 +65,10 @@ All JPG images licensed under Creative Commons Zero (CC0) license: https://creat
 
 == Changelog ==
 
+= 0.5.0 = 8 November 2023 =
+
+* Update: Blockify 1.3.0 and WordPress 6.4 compatibility
+
 = 0.4.1 - 22 April 2022 =
 
 * Fix: Content editable mode button color
