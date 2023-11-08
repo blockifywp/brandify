@@ -6,6 +6,6 @@
 	"main": "assets/js/index.js",
 	"scripts": {
 		"pot": "wp i18n make-pot ./ languages/brandify.pot --exclude='wp,wp-content,vendor,tests,node_modules,build,assets,src'",
-		"zip": "rm -Rf ../../brandify.zip && zip -r ../../brandify.zip assets/ languages/ parts/ patterns/ styles/ templates/ readme.txt screenshot.png style.css theme.json"
+		"zip": "rm -Rf ../../brandify.zip && zip -r ../../brandify.zip assets/ languages/ patterns/ styles/ readme.txt screenshot.png style.css theme.json"
 	}
 }
