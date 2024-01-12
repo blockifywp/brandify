@@ -1,7 +1,7 @@
 <?php
 /**
- * Title: Landing
- * Slug: landing
+ * Title: Home
+ * Slug: home
  * Categories: page
  * Inserter: false
  */
