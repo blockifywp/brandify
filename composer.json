@@ -12,5 +12,21 @@
   "config": {
     "optimize-autoloader": true,
     "sort-packages": true
+  },
+  "archive": {
+    "exclude": [
+      ".git",
+      ".github",
+      ".gitignore",
+      ".gitattributes",
+      ".editorconfig",
+      "composer.json",
+      "composer.lock",
+      "package.json",
+      "package-lock.json"
+    ]
+  },
+  "scripts": {
+    "zip": "composer archive --format=zip --file=../brandify"
   }
 }
