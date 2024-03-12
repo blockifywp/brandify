@@ -1,8 +1,8 @@
 === Brandify ===
 Contributors: blockify
-Requires at least: 6.2
+Requires at least: 6.4
 Tested up to: 6.4
-Stable tag: 0.5.0
+Stable tag: 0.6.0
 Requires PHP: 7.4
 License: GPL-2.0-or-later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -64,6 +64,17 @@ All JPG images licensed under Creative Commons Zero (CC0) license: https://creat
 - https://pxhere.com/en/photo/1448601
 
 == Changelog ==
+
+= 0.6.0 - 12 March 2024 =
+
+* Add: Composer.json, editorconfig and zip script
+* Remove: Dark style variation (use toggle)
+* Remove: Package.json
+* Update: Pattern updates
+* Update: Resize circular text buttons
+* Update: Rename Landing page pattern to Home page
+* Fix: Hero pattern overflow and z-index
+* Fix: Footer nav menu mobile overlay
 
 = 0.5.0 = 8 November 2023 =
 
