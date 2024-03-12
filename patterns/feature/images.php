@@ -21,13 +21,13 @@
 <div class="wp-block-column has-animation" style="flex-basis:50%;animation-name:fade-in-up;animation-duration:1s;animation-timing-function:ease-in-out;animation-iteration-count:1"><!-- wp:spacer {"height":"3em"} -->
 <div style="height:3em" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
-<!-- wp:image {"id":505,"sizeSlug":"full","linkDestination":"none","style":{"animation":{"timingFunction":"ease-in-out","duration":".6","delay":"0","iterationCount":"1","playState":"running"},"transform":"","filter":{}},"animation":{}} -->
-<figure class="wp-block-image size-full"><img src="http://blockifydemo.local/brandify/wp-content/themes/brandify/assets/img/startup-office-edited.jpeg" alt="" class="wp-image-505"/></figure>
+<!-- wp:image {"id":234,"sizeSlug":"full","linkDestination":"none","style":{"animation":{"timingFunction":"ease-in-out","duration":".6","delay":"0","iterationCount":"1","playState":"running"},"transform":"","filter":{}},"animation":{}} -->
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( content_url( "/themes/brandify/assets/" ) ) ?>img/startup-office-edited.jpeg" alt="" class="wp-image-234"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 <!-- wp:column {"width":"50%","style":{"animation":{"duration":"0.6","delay":0.3,"timingFunction":"ease-in-out","iterationCount":"1"},"transform":"","filter":{}},"animation":{"name":"fade-in-up","duration":1,"delay":"0.5","timingFunction":"ease-in-out"}} -->
-<div class="wp-block-column has-animation" style="flex-basis:50%;animation-name:fade-in-up;animation-duration:1s;animation-delay:0.5s;animation-timing-function:ease-in-out;animation-iteration-count:1"><!-- wp:image {"id":618,"sizeSlug":"large","linkDestination":"none","style":{"animation":{},"transform":"","filter":{}},"animation":{}} -->
-<figure class="wp-block-image size-large"><img src="http://blockifydemo.local/brandify/wp-content/themes/brandify/assets/img/achievement-analysis-brainstorming-business-edited-1.jpg" alt="" class="wp-image-618"/></figure>
+<div class="wp-block-column has-animation" style="flex-basis:50%;animation-name:fade-in-up;animation-duration:1s;animation-delay:0.5s;animation-timing-function:ease-in-out;animation-iteration-count:1"><!-- wp:image {"id":228,"sizeSlug":"full","linkDestination":"none","style":{"animation":{},"transform":"","filter":{}},"animation":{}} -->
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( content_url( "/themes/brandify/assets/" ) ) ?>img/achievement-analysis-brainstorming-business-edited-1.jpg" alt="" class="wp-image-228"/></figure>
 <!-- /wp:image -->
 <!-- wp:spacer {"height":"3em"} -->
 <div style="height:3em" aria-hidden="true" class="wp-block-spacer"></div>
@@ -41,13 +41,13 @@
 <div class="wp-block-column has-animation" style="flex-basis:50%;animation-name:fade-in-up;animation-duration:1s;animation-delay:1s;animation-timing-function:ease-in-out;animation-iteration-count:1"><!-- wp:spacer {"height":"3em"} -->
 <div style="height:3em" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
-<!-- wp:image {"id":508,"sizeSlug":"full","linkDestination":"none","style":{"filter":{}},"animation":{"name":"fade-in-up","duration":"1","timingFunction":"ease-in-out","delay":"1"}} -->
-<figure class="wp-block-image size-full has-animation" style="animation-name:fade-in-up;animation-duration:1s;animation-delay:1s;animation-timing-function:ease-in-out;animation-iteration-count:1"><img src="http://blockifydemo.local/brandify/wp-content/themes/brandify/assets/img/building-vehicle-workspace-office-business-room-edited.jpg" alt="" class="wp-image-508"/></figure>
+<!-- wp:image {"id":229,"sizeSlug":"full","linkDestination":"none","style":{"filter":{}},"animation":{"name":"fade-in-up","duration":"1","timingFunction":"ease-in-out","delay":"1"}} -->
+<figure class="wp-block-image size-full has-animation" style="animation-name:fade-in-up;animation-duration:1s;animation-delay:1s;animation-timing-function:ease-in-out;animation-iteration-count:1"><img src="<?php echo esc_url( content_url( "/themes/brandify/assets/" ) ) ?>img/building-vehicle-workspace-office-business-room-edited.jpg" alt="" class="wp-image-229"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column -->
 <!-- wp:column {"width":"50%","style":{"transform":"","filter":{},"animation":{"timingFunction":"ease-in-out","duration":"0.6","delay":"0.9","iterationCount":"1"}},"animation":{"name":"fade-in-up","duration":1,"delay":"1.5","timingFunction":"ease-in-out"}} -->
-<div class="wp-block-column has-animation" style="flex-basis:50%;animation-name:fade-in-up;animation-duration:1s;animation-delay:1.5s;animation-timing-function:ease-in-out;animation-iteration-count:1"><!-- wp:image {"id":507,"sizeSlug":"large","linkDestination":"none","className":"","animation":{}} -->
-<figure class="wp-block-image size-large"><img src="http://blockifydemo.local/brandify/wp-content/themes/brandify/assets/img/people-working-edited-1.jpeg" alt="" class="wp-image-507"/></figure>
+<div class="wp-block-column has-animation" style="flex-basis:50%;animation-name:fade-in-up;animation-duration:1s;animation-delay:1.5s;animation-timing-function:ease-in-out;animation-iteration-count:1"><!-- wp:image {"id":233,"sizeSlug":"full","linkDestination":"none","className":"","animation":{}} -->
+<figure class="wp-block-image size-full"><img src="<?php echo esc_url( content_url( "/themes/brandify/assets/" ) ) ?>img/people-working-edited-1.jpeg" alt="" class="wp-image-233"/></figure>
 <!-- /wp:image -->
 <!-- wp:spacer {"height":"3em"} -->
 <div style="height:3em" aria-hidden="true" class="wp-block-spacer"></div>
