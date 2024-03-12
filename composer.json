@@ -27,6 +27,7 @@
     ]
   },
   "scripts": {
-    "zip": "composer archive --format=zip --file=../brandify"
+    "zip": "composer archive --format=zip --file=../brandify",
+    "pot": "wp i18n make-pot ./ languages/brandify.pot --exclude='assets'"
   }
 }
