@@ -5,8 +5,8 @@
  * Categories: hero
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0"}}},"className":"is-style-default","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull is-style-default" id="hero" style="margin-top:0"><!-- wp:columns {"verticalAlignment":"bottom","align":"wide","style":{"spacing":{"padding":{"bottom":"0","top":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|lg"}}}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0"}},"position":{"all":"relative"},"overflow":{"all":"hidden"}},"className":"is-style-default","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull is-style-default" id="hero" style="margin-top:0"><!-- wp:columns {"verticalAlignment":"bottom","align":"wide","style":{"spacing":{"padding":{"bottom":"0","top":"0"},"blockGap":{"top":"0","left":"var:preset|spacing|lg"}},"position":{"all":"relative"},"zIndex":{"all":"1"}}} -->
 <div class="wp-block-columns alignwide are-vertically-aligned-bottom" style="padding-top:0;padding-bottom:0"><!-- wp:column {"verticalAlignment":"bottom","width":"","style":{"spacing":{"padding":{"top":"var:preset|spacing|xl"}}}} -->
 <div class="wp-block-column is-vertically-aligned-bottom" style="padding-top:var(--wp--preset--spacing--xl)"><!-- wp:heading {"level":1,"style":{"typography":{"lineHeight":1.1}},"textColor":"currentColor","fontSize":"60","animation":{"name":"fade-in-down","duration":1,"timingFunction":"ease-in-out"}} -->
 <h1 class="wp-block-heading has-current-color-color has-text-color has-60-font-size has-animation" style="line-height:1.1;animation-name:fade-in-down;animation-duration:1s;animation-timing-function:ease-in-out;animation-iteration-count:1">Trusted <span style="font-style:italic;  font-weight:400; font-weight:400;" class="has-font has-mona-sans-font-family">award winning</span> brand agency</h1>

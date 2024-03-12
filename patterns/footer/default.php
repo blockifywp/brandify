@@ -28,7 +28,7 @@
 <div class="wp-block-column"><!-- wp:paragraph {"className":"has-text-align-left is-style-heading"} -->
 <p class="has-text-align-left is-style-heading"><strong>Pages</strong></p>
 <!-- /wp:paragraph -->
-<!-- wp:navigation {"ref":"","className":"is-style-default","layout":{"type":"flex","orientation":"vertical"},"style":{"spacing":{"blockGap":"var:preset|spacing|sm","margin":{"top":"var:preset|spacing|sm"}},"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"16"} /--></div>
+<!-- wp:navigation {"ref":"","overlayMenu":"never","className":"is-style-default","layout":{"type":"flex","orientation":"vertical"},"style":{"spacing":{"blockGap":"var:preset|spacing|sm","margin":{"top":"var:preset|spacing|sm"}},"typography":{"fontStyle":"normal","fontWeight":"400"}},"fontSize":"16"} /--></div>
 <!-- /wp:column -->
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:paragraph {"className":"has-text-align-left is-style-heading"} -->
@@ -96,7 +96,7 @@
 <!-- /wp:columns -->
 <!-- wp:group {"align":"wide","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
 <div class="wp-block-group alignwide"><!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|sm","top":"var:preset|spacing|md"}}}} -->
-<p class="aligncenter has-text-align-center aligncenter" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--sm)">© Copyright {year} {site_title}<mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-foreground-color"><span style="" class="has-text-gradient has-conic-light-gradient-background">⚡️</span></mark>by Blockify. All rights reserved. </p>
+<p class="aligncenter has-text-align-center aligncenter" style="padding-top:var(--wp--preset--spacing--md);padding-bottom:var(--wp--preset--spacing--sm)">© Copyright {year} <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-neutral-0-color"><span style="" class="has-text-gradient has-primary-foreground-gradient-background">⚡️</span></mark> by {site_title}. All rights reserved. </p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
